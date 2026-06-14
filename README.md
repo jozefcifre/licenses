@@ -1,2 +1,1 @@
-# license-notices
-Licenses Notices
+# Licenses
